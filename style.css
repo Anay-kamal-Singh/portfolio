@@ -1,0 +1,35 @@
+body{
+  background-color: powderblue;
+}
+hr{
+  border-style: dashed;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/* h1{
+  color: orange;
+} */
+
+.Myself{
+  color: red;
+}
+
+.hello{
+  color: orange;
+}
+
+#skills{
+  color: green;
+}
+
+.colour{
+  background-color: red;
+}
+.area{
+  border-radius: 100%;
+}
+img:hover{
+  background-color: gold;
+}
